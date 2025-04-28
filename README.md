@@ -14,6 +14,10 @@ Currently, the project is not fully production-ready. The frontend and backend A
 
 I have created also the offline versions of the desktop application a few years ago and more information about them can be found [here](https://github.com/Deirror/DOOMz). I plan to make them communicate with HTTPS with the Go backend for managing database, authentication and tokens.
 
+# Video clip
+
+A short review of my project so far, which reveals the authentication part, epsecially registering in the web application
+
 https://github.com/user-attachments/assets/5313a27e-20e8-47a9-91ad-fc15245c2ce2
 
 
