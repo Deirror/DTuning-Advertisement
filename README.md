@@ -24,7 +24,7 @@ The following technologies are and will be used for building into production mod
 - Postgres for main relational database (Neon.tech)
 - Cloudflare for security
 - Stripe for payment services (tokens)
-- Google OAuth for beeter user experience
+- Google OAuth for better user experience
 
 # Video clip
 
