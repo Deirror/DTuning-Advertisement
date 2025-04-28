@@ -12,4 +12,4 @@ The web services now handle authentication and database-related functionality, w
 
 Currently, the project is not fully production-ready. The frontend and backend API are completed, but further work is still ongoing. Due to copyright protection, the code will not be shared at this stage.
 
-I have created also the offline versions of the desktop application a few years ago and more information about them can be found [here](). I plan to make them communicate with HTTPS with the Go backend for managing database, authentication and tokens.
+I have created also the offline versions of the desktop application a few years ago and more information about them can be found [here](https://github.com/Deirror/DOOMz). I plan to make them communicate with HTTPS with the Go backend for managing database, authentication and tokens.
