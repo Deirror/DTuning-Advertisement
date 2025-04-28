@@ -8,7 +8,7 @@ The app also includes a dedicated page that describes desktop applications avail
 
 The web services now handle authentication and database-related functionality, while the EXE clients take care of the actual difference algorithm.
 
-# Status/Progress
+# Progress
 
 Currently, the project is not fully production-ready. The frontend and backend API are completed, but further work is still ongoing. Due to copyright protection, the code will not be shared at this stage.
 
