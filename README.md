@@ -19,11 +19,11 @@ I have created also the offline versions of the desktop application a few years 
 The following technologies are and will be used for building into production mode:
 -
 
-- Render(later moving to Google Cloud Platform(GCP))
-- Redis for caching JWT(Upstash)
-- Postgres for main relational database(Neon.tech)
+- Render (later moving to Google Cloud Platform(GCP))
+- Redis for caching JWT (Upstash)
+- Postgres for main relational database (Neon.tech)
 - Cloudflare for security
-- Stripe for payment services(tokens)
+- Stripe for payment services (tokens)
 - Google OAuth for beeter user experience
 
 # Video clip
