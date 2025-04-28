@@ -14,6 +14,18 @@ Currently, the project is not fully production-ready. The frontend and backend A
 
 I have created also the offline versions of the desktop application a few years ago and more information about them can be found [here](https://github.com/Deirror/DOOMz). I plan to make them communicate with HTTPS with the Go backend for managing database, authentication and tokens.
 
+# Tech Stack
+
+The following technologies are and will be used for building into production mode:
+-
+
+- Render(later moving to Google Cloud Platform(GCP))
+- Redis for caching JWT(Upstash)
+- Postgres for main relational database(Neon.tech)
+- Cloudflare for security
+- Stripe for payment services(tokens)
+- Google OAuth for beeter user experience
+
 # Video clip
 
 A short review of my project so far, which reveals the authentication part, epsecially registering in the web application
